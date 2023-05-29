@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://localhost/cursowp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/cursowp</link>
+	<description>Comida Italiana</description>
+	<lastBuildDate>Fri, 19 May 2023 16:57:53 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>http://localhost/cursowp/wp-content/uploads/2023/05/fresco-free-logo-icon.png</url>
+	<title></title>
+	<link>http://localhost/cursowp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Almoço Executivo</title>
+		<link>http://localhost/cursowp/2023/05/19/almoco-executivo/</link>
+					<comments>http://localhost/cursowp/2023/05/19/almoco-executivo/#respond</comments>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 19 May 2023 16:27:55 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Almoço]]></category>
+		<category><![CDATA[Evento]]></category>
+		<category><![CDATA[Executivo]]></category>
+		<guid isPermaLink="false">http://localhost/cursowp/?p=184</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet. Non placeat voluptatem et fugiat dolorum et modi vero ab modi veritatis et rerum aperiam! Qui dolor quod aut corrupti harum ut deleniti eius et laborum facilis aut veniam omnis est quia reprehenderit! Aut placeat labore est velit dolores non sint aliquam ut consequatur nobis rem molestiae obcaecati? Vel architecto &#8230;<p class="read-more"> <a class="" href="http://localhost/cursowp/2023/05/19/almoco-executivo/"> <span class="screen-reader-text">Almoço Executivo</span> Leia mais &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Lorem ipsum dolor sit amet. Non placeat voluptatem et fugiat dolorum et modi vero ab modi veritatis et rerum aperiam! Qui dolor quod aut corrupti harum ut deleniti eius et laborum facilis aut veniam omnis est quia reprehenderit!</p>
+
+
+
+<p>Aut placeat labore est velit dolores non sint aliquam ut consequatur nobis rem molestiae obcaecati? Vel architecto numquam quo internos quod vel voluptates adipisci qui veritatis fugiat aut alias nemo qui voluptatibus consequuntur. Sed mollitia consequatur in magni deserunt sit ducimus laudantium et tenetur explicabo.</p>
+
+
+
+<p>Eos reprehenderit dolor aut cumque nisi et corporis nobis vel omnis inventore et voluptatibus ducimus et enim doloribus! Qui debitis voluptas quo delectus dolorem aut explicabo atque in unde eveniet a perspiciatis facere ea tempore accusantium ut culpa magni! Eos eaque dolores non quisquam officia qui totam illo. Et laborum cumque id eaque magni et omnis animi ut perferendis ullam?</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="http://localhost/cursowp/wp-content/uploads/2023/05/pizzaria-hero-fundo02.jpg"><img decoding="async" width="1920" height="1280" data-id="115"  src="http://localhost/cursowp/wp-content/uploads/2023/05/pizzaria-hero-fundo02.jpg" alt="" class="wp-image-115"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://localhost/cursowp/wp-content/uploads/2023/05/blur-coffee-cafe-shop-restaurant-with-bokeh-background-xd.jpg"><img decoding="async" width="4896" height="3264" data-id="151"  src="http://localhost/cursowp/wp-content/uploads/2023/05/blur-coffee-cafe-shop-restaurant-with-bokeh-background-xd.jpg" alt="" class="wp-image-151"/></a><figcaption class="wp-element-caption">Blur coffee cafe shop restaurant with bokeh background.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://localhost/cursowp/wp-content/uploads/2023/05/pexels-nataliya-vaitkevich-5792329.jpg"><img decoding="async" width="640" height="495" data-id="98"  src="http://localhost/cursowp/wp-content/uploads/2023/05/pexels-nataliya-vaitkevich-5792329.jpg" alt="" class="wp-image-98"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><a href="http://localhost/cursowp/wp-content/uploads/2023/05/several-types-dry-pasta-with-vegetables-herbs-black-background.jpg"><img decoding="async" width="1980" height="1320" data-id="82"  src="http://localhost/cursowp/wp-content/uploads/2023/05/several-types-dry-pasta-with-vegetables-herbs-black-background.jpg" alt="" class="wp-image-82" style="border-style:none;border-width:0px"/></a></figure>
+</figure>
+
+
+
+<p>&#8220;<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.</em>&#8220;</p>
+
+
+
+<p>&#8220;<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.</em>&#8220;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/cursowp/2023/05/19/almoco-executivo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
